@@ -1,2 +1,2 @@
-# nubank
-Clone da interface do Nubank
+# rocketseat-clone-interface-nubank
+Código replicando a interface do Nubank com React Native 
