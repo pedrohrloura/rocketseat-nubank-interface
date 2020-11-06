@@ -1,4 +1,4 @@
-# rocketseat-nubank-interface
+# Rocketseat Nubank Interface
 Código replicando a interface do Nubank com React Native;
 # Bibliotecas
 •	Axios
